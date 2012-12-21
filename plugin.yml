@@ -1,0 +1,8 @@
+name : Crasher
+version : 1.0.0
+main : me.jtjj222.crasher.Crasher
+commands:
+  crash:
+    description : Crash a client!
+    permission : Crasher.crash
+    usage : /<command> player name
